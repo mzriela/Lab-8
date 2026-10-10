@@ -23,6 +23,7 @@ In this lab, I used an ESP32 and my phone to learn how Bluetooth Low Energy (BLE
 - Only connect to your own ESP32.
 # Assembly Diagram
   <img width="985" height="741" alt="image" src="https://github.com/user-attachments/assets/e62ca4ee-431d-46ac-b7c5-76eb66c1979c" />
+  
 # Circuit Diagram
 <img width="702" height="380" alt="image" src="https://github.com/user-attachments/assets/3e80db71-e010-4ded-83c7-a5e3c8721227" />
 
