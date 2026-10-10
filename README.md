@@ -13,7 +13,7 @@ In this lab, I used an ESP32 and my phone to learn how Bluetooth Low Energy (BLE
 - Serial Monitor
 - Bluefruit Connect (Apple users)
 - BLE_UART.h file (provided by instructor)
-# SafeTY Instructions
+# Safety Instructions
 - Disconnect power before modifying circuits.
 -	Verify all wiring before powering the circuit.
 -	Connect the OLED to 3.3V only.
